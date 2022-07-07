@@ -1,7 +1,7 @@
 <?php      
     $host = "localhost";  
     $user = "root";  
-    $password = '';  
+    $password = '12345';  
     $db_name = "deliverydb";  
       
     $con = mysqli_connect($host, $user, $password, $db_name);  
