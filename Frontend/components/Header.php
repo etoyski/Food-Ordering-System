@@ -18,7 +18,7 @@
             <a class="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../Frontend/views/About.php">Orders</a>
+            <a class="nav-link" href="../views/About.php">Orders</a>
           </li>
           
           <li class="nav-item dropdown">
@@ -36,7 +36,7 @@
           </li>
         </ul>
         <div class="  mx-auto">
-        <a href="../Frontend/users/Login.php" class="btn btn-outlined-primary" tabindex="-1" role="button" aria-disabled="true">LOGIN</a>
+        <a href="../users/Login.php" class="btn btn-outlined-primary" tabindex="-1" role="button" aria-disabled="true">LOGIN</a>
 
         <button type="button" class="btn btn-primary">Signup</button>
     </div> 
